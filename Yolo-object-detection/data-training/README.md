@@ -1,8 +1,8 @@
 # Custom object training
 To train the YOLO system to detect custom object, the following steps are taken:
 * Create a dataset
-  * Collect pictures
-  * Label pictures
+  - Collect pictures
+  - Label pictures
 * Training with Colab
 * Preparing files for detection
 * Run custom detection
