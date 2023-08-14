@@ -19,3 +19,4 @@ Labeling of the images can be done via https://www.makesense.ai/ (check whether 
  ### References
  - https://medium.com/mlearning-ai/custom-object-detection-with-yolo-a53eb99b2c8a
  - https://www.youtube.com/watch?v=WgPbbWmnXJ8&list=PLFX5gC6vx_Ht9_ooCPSIqprgBufKuUs4y&index=2&t=10924s 
+ - https://www.youtube.com/watch?v=m9fH9OWn8YM - Train Yolov8 object detection on a custom dataset

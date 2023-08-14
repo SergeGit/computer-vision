@@ -4,7 +4,7 @@ rtsp://admin:L26ODOE2@192.168.5.91/cam/realmonitor?channel=1&subtype=00&authbasi
 rtsp://admin:L260D0E2@192.168.5.91/cam/realmonitor?channel=1&subtype=0
 
 
-
+how to save data from a stream to an mp4
 
 rtsp://admin:admin@192.168.5.91/cam/realmonitor?channel=1&subtype=00&authbasic=YWRtaW46YWRtaW4=
 
